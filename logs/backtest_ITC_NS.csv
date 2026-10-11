@@ -1,0 +1,5 @@
+symbol,side,entry_time,exit_time,duration_mins,entry,exit,qty,pnl_inr,return_pct,reason
+ITC.NS,SHORT,2026-08-11 12:45:00+05:30,2026-08-12 13:30:00+05:30,1485,280.9,278.1,35,98.0,1.0,color_flip_target
+ITC.NS,LONG,2026-08-14 14:15:00+05:30,2026-08-14 14:30:00+05:30,15,277.65,277.35,36,-10.8,-0.11,color_flip_target
+ITC.NS,SHORT,2026-09-02 09:30:00+05:30,2026-09-02 10:15:00+05:30,45,263.9,265.8,37,-70.3,-0.72,color_flip_target
+ITC.NS,SHORT,2026-09-30 13:45:00+05:30,2026-09-30 15:15:00+05:30,90,263.9,262.75,37,42.55,0.44,color_flip_target
